@@ -1,5 +1,5 @@
 # slack-meme
-Post memes to any of your Slack channels with a slash command.
+Post memes to any of your Slack channels with a slaesh command.
 
 ## Usage
 
